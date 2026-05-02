@@ -1,6 +1,7 @@
 # 📸 SnapBooth
 
-SnapBooth is a fun and aesthetic **web-based camera app** built with React that lets users capture photos with live filters, countdown effects, and a snap gallery — all directly from the browser.
+SnapBooth is a fun and aesthetic **web-based camera app** built with React that lets users capture photos with live filters, countdown effects, and a snap gallery, all directly from the browser.
+
 Live Preview: https://snapbooth-mauve.vercel.app/
 ---
 
